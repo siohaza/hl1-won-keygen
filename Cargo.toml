@@ -1,0 +1,9 @@
+[package]
+name = "hl1-won"
+version = "0.1.0"
+edition = "2021"
+authors = ["siohaza <siohaza@proton.me>"]
+license = "BSD-2-Clause"
+
+[dependencies]
+rand = "0.8"
